@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Torcedometro</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="login_hint">Login</string>
+    <string name="cb_manter_conectado">Manter Conectado</string>
+    <string name="btn_logar">Logar</string>
+    <string name="nome_do_torcedor">Nome do torcedor</string>
+    <string name="clube">Clube</string>
+    <string name="cadastrar">Cadastrar</string>
+</resources>
